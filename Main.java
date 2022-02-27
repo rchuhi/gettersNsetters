@@ -5,7 +5,7 @@ Tuesday and Thursday 2:10pm*/
 package getSetter;
 
 public class Main {
- String make;
+private String make;
  int year;
  
 	public static void main(String[] args) {
